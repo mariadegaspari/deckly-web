@@ -36,7 +36,7 @@ Importe o banco de dados no MySQL e configure a conexão no arquivo corresponden
 2. Clone este repositório e coloque a pasta do projeto no diretório do servidor (no XAMPP, a pasta `htdocs`).
 3. Importe o arquivo SQL da pasta `database` no MySQL.
 4. Configure a conexão com o banco de dados (servidor, usuário, senha e nome do banco) no arquivo de conexão do projeto.
-5. Inicie o Apache e o MySQL e acesse o projeto pelo navegador, em `http://localhost/` seguido do nome da pasta do projeto.
+5. Inicie o Apache e o MySQL e acesse o projeto pelo navegador, em `http://localhost/INFO_53/` seguido do nome da pasta do projeto.
 
 ## Observação
 
